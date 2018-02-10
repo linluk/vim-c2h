@@ -7,13 +7,13 @@ To switch between them simply type `<leader>ch` or `:C2H`.
 Usage
 =====
 
-  Command                    |  Effect
-  ---------------------------|---------------------------------------------
-  <leader>ch  or  :C2H       |  switch between source and header file
-  :C2HAbout                  |  prints this help text
-  :C2HRegister <arg1> <arg2> |  registers corresponding source and header extensions
-  :C2HClear                  |  removes all file extension mappings
-  :C2HReset                  |  resets all file extension mappings
+  Command                      |  Effect
+  -----------------------------|---------------------------------------------
+  `<leader>ch`  or  `:C2H`     |  switch between source and header file
+  `:C2HAbout`                  |  prints this help text
+  `:C2HRegister <arg1> <arg2>` |  registers corresponding source and header extensions
+  `:C2HClear`                  |  removes all file extension mappings
+  `:C2HReset`                  |  resets all file extension mappings
 
 Default Extension Mappings
 ==========================
